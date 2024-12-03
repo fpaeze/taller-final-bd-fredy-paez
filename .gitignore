@@ -1,0 +1,8 @@
+# Ignorar node_modules en cualquier parte
+**/node_modules/
+
+# Ignorar archivos de configuración sensibles
+**/.env
+
+# Ignorar logs
+*.log
